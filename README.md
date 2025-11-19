@@ -1,11 +1,13 @@
 # Rock-Paper-Scissors_Python_Project
-This is a simple, interactive Rock–Paper–Scissors game written in Python. The user plays against the computer, which randomly selects its move each round. The game follows the classic rules and continues running until the player chooses to exit.
-# How the Game Works
-The player chooses rock, paper, or scissors.
-The computer randomly picks one of the three options.\n
-The winner is determined based on standard game rules:
-Rock beats Scissors
-Scissors beats Paper
-Paper beats Rock
-The game displays the result for each round.
-The player can choose to play again or exit.
+A simple and interactive Rock–Paper–Scissors game built using Python.
+Play against the computer, test your luck, and enjoy an easy-to-use console interface!
+## How the Game Works
+
+- The player chooses **rock**, **paper**, or **scissors**.
+- The computer randomly selects one of the three options.
+- The winner is decided using the classic rules:
+  - **Rock** crushes **Scissors**
+  - **Scissors** cut **Paper**
+  - **Paper** covers **Rock**
+- The result is displayed each round.
+- The user can choose to play again or quit.
