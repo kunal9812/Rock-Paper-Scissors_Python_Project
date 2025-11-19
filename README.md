@@ -11,3 +11,7 @@ Play against the computer, test your luck, and enjoy an easy-to-use console inte
   - **Paper** covers **Rock**
 - The result is displayed each round.
 - The user can choose to play again or quit.
+
+## Flowchart
+
+![Rock Paper Scissors Flowchart](flowchart.png)
