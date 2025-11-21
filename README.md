@@ -1,6 +1,7 @@
 # Rock-Paper-Scissors_Python_Project
-A simple and interactive Rock–Paper–Scissors game built using Python.
+A simple and interactive Rock–Paper–Scissors game built using Python
 Play against the computer, test your luck, and enjoy an easy-to-use console interface!
+* By Kunal Yadav(1/24/SET/BCS/010) and Pankaj Singh(1/24/SET/BCS/012)
 ## How the Game Works
 
 - The player chooses **rock**, **paper**, or **scissors**.
